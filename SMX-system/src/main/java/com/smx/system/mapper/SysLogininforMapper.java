@@ -1,6 +1,7 @@
 package com.smx.system.mapper;
 
 import com.smx.system.domain.SysLogininfor;
+import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;
 
@@ -9,6 +10,7 @@ import java.util.List;
  * 
  * @author ruoyi
  */
+
 public interface SysLogininforMapper
 {
     /**
