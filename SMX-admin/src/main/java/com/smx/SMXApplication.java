@@ -15,8 +15,9 @@ public class SMXApplication
     public static void main(String[] args)
     {
         // System.setProperty("spring.devtools.restart.enabled", "false");
+        //顺利会师
         SpringApplication.run(SMXApplication.class, args);
-        System.out.println("(♥◠‿◠)ﾉﾞ  SMX启动成功   ლ(´ڡ`ლ)ﾞ  \n" +
+        System.out.println("(♥◠‿◠)ﾉﾞ  <---SMX--->  启动!!!   ლ(´ڡ`ლ)ﾞ  \n" +
                 " .-------.       ____     __        \n" +
                 " |  _ _   \\      \\   \\   /  /    \n" +
                 " | ( ' )  |       \\  _. /  '       \n" +
