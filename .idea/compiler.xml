@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SMX-framework" />
+        <module name="SMX-quartz" />
+        <module name="SMX-admin" />
+        <module name="SMX-generator" />
+        <module name="SMX-common" />
+        <module name="SMX-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SMX-admin" target="1.8" />
+      <module name="SMX-common" target="1.8" />
+      <module name="SMX-framework" target="1.8" />
+      <module name="SMX-generator" target="1.8" />
+      <module name="SMX-quartz" target="1.8" />
+      <module name="SMX-system" target="1.8" />
+      <module name="StorageManageX" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
